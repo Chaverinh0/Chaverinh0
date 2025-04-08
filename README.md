@@ -56,8 +56,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/miro.svg" height="40" alt="Miro logo" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/canva.svg" height="40" alt="Canva logo" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/lucidchart.svg" height="40" alt="Lucidchart logo" />
 </div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=00E0FF&section=footer" />
 </div>
+
