@@ -1,72 +1,75 @@
 <div align="center">
-  <!-- Cabeçalho animado -->
+
+  <!-- Header animado com vibe laranja quente -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&animation=twinkling&color=FF4500,F4A261,FFD580&fontColor=000000&section=header"/>
+
+  <!-- Título Apresentação -->
+  <h1 style="color:#FF6A00">Oiee, eu sou a Sara Angela 👋</h1>
+
+  <!-- Animação de typing -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=Oi%2C+eu+sou+a+Chaverinh0+%F0%9F%91%8B;UX%2FUI+Design+%7C+Vendas+%7C+Tecnologia;Transformando+ideias+em+experi%C3%AAncias+digitais+incr%C3%ADveis" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6A00&center=true&vCenter=true&width=1000&lines=7+anos+de+experiencia+em+vendas+e+atendimento;Agora+mergulhando+no+universo+Tech;UX%2FUI+Design%2C+projetos+e+criatividade+%3D+minha+vibe;Conectar%2C+inovar+e+entregar+experiencias!" alt="Typing SVG" />
   </a>
 
-  <!-- Linha decorativa -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=header"/>
 </div>
 
 ---
 
 ### 👩‍💻 Sobre Mim
 
-Sou uma profissional que veio das trincheiras das vendas — foram 7 anos lidando com gente, metas e problemas que viravam soluções na marra. Isso me moldou: hoje tenho olhar analítico, escuta afiada e jogo de cintura de sobra.
+Tenho **7 anos de experiência em vendas e atendimento ao cliente**, onde aprendi tudo sobre gente, negociação e como resolver B.O com eficiência e empatia.
 
-Agora tô no corre tech: mergulhei de cabeça no universo de **UX/UI Design**, apaixonada por transformar ideias em experiências digitais que realmente funcionam (e encantam 👀).  
+Agora, tô direcionando minha carreira pra **Tecnologia da Informação**, com foco em **UX/UI Design**. Tô combinando minha bagagem em comunicação com habilidades tech pra criar soluções que realmente façam sentido pra quem usa.
 
-Estudo liderança, projeto, segurança, código, design e tudo mais que possa me fazer uma criadora de soluções completas — com **estilo**, **inteligência** e **impacto real**.  
-
-Se é pra somar com inovação, criatividade e propósito, tô dentro. Bora criar o futuro?
+Sou movida a desafios, aprendizado contínuo e design com propósito. Gosto de transformar ideias em experiências práticas, funcionais e, claro, bonitas. 💡🎨
 
 ---
 
-### 🧠 Habilidades e Conhecimentos
+### 🧠 Skills e Ferramentas
 
-- 💡 **Metodologias Ágeis:** Scrum, Kanban, Miro, Trello  
-- 📊 **Gestão Estratégica:** Análise SWOT, Ciclo PDCA  
-- 🔐 **Segurança:** Curso de Cibersegurança (Cisco)  
-- 📈 **Dados e Banco:** Power BI, MySQL, MongoDB  
-- 💾 **Programação:** Python, C, C++, Kotlin, Portugol  
+- 📌 **Agilidade na veia:** Scrum, Kanban, Miro, Trello  
+- 🎯 **Gestão estratégica:** SWOT, PDCA  
+- 🔐 **Segurança:** Cibersegurança Essentials (Cisco)  
+- 🧠 **Dados:** Power BI, MySQL, MongoDB  
+- 👩‍💻 **Linguagens:** Python, C, C++, Kotlin, Portugol  
 - 🌐 **Web:** HTML, CSS, JavaScript  
-- 🎨 **Design:** Figma, Adobe Illustrator, Photoshop, Corel Draw  
-- 💼 **Outros:** Microsoft Office 365  
-- 📚 **Formação:** Gestão em TI + noções de contabilidade, arquitetura computacional e lógica
+- 🎨 **Design Tools:** Figma, Illustrator, Photoshop, Corel Draw  
+- 📦 **Outros:** Office 365  
+- 🎓 **Formação:** Gestão em TI + Conhecimentos em contabilidade, arquitetura computacional e lógica de programação  
 
 ---
 
-### ⚙️ GitHub Stats
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chaverinh0&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="Linguagens mais usadas" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Chaverinh0&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="Estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaverinh0&layout=compact&theme=orange&hide_border=false&card_width=320&langs_count=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chaverinh0&show_icons=true&theme=orange&hide_border=false&count_private=true&include_all_commits=true" height="150" />
 </div>
 
 ---
 
-### 🌍 Contato
+### 🌎 Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sara-angela/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-40E0D0?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-FF6A00?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/chaverinh0_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-40E0D0?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-FE4E00?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=5511932220162" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-40E0D0?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:saraprado535@gmail.com">
-    <img src="https://img.shields.io/badge/Email-40E0D0?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://saraprado535.wixsite.com/saraangela-portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-40E0D0?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-FF8C00?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&animation=twinkling&color=FFD580,F4A261,FF4500&section=footer"/>
 </div>
