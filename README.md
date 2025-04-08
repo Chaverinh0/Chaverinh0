@@ -14,16 +14,19 @@
 ### 🌎 Contato
 <div align="center">
   <a href="https://www.linkedin.com/in/sara-angela/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00E0FF?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-00E0FF?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
   <a href="https://www.instagram.com/chaverinh0_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-00E0FF?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-00E0FF?style=for-the-badge&logo=instagram&logoColor=white" height="25" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=5511932220162" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-00E0FF?style=for-the-badge&logo=whatsapp&logoColor=white" height="25" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-00E0FF?style=for-the-badge&logo=whatsapp&logoColor=white" height="25" />
   </a>
   <a href="mailto:saraprado535@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00E0FF?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-00E0FF?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
+  </a>
+  <a href="https://saraprado535.wixsite.com/saraangela-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-00E0FF?style=for-the-badge&logo=google-chrome&logoColor=white" height="25" />
   </a>
 </div>
 
@@ -39,20 +42,20 @@
 
 ### 🛠 Linguagens e Ferramentas
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Office 365" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" />
 </div>
 
 <div align="center">
