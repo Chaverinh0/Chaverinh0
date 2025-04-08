@@ -1,8 +1,8 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=00C3FF" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=00E0FF" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=00C3FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Sara+Angela.;Bem-vindo+ao+meu+perfil+profissional!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=00E0FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Sara+Angela.;7+anos+no+varejo,+agora+construindo+minha+carreira+na+tech!" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -14,25 +14,27 @@
 ### 🌎 Contato
 <div align="center">
   <a href="https://www.linkedin.com/in/sara-angela/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00C3FF?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-00E0FF?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/chaverinh0_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-00C3FF?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-00E0FF?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="Instagram" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=5511932220162" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-00C3FF?style=for-the-badge&logo=whatsapp&logoColor=white" height="25" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-00E0FF?style=for-the-badge&logo=whatsapp&logoColor=white" height="25" alt="WhatsApp" />
   </a>
   <a href="mailto:saraprado535@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00C3FF?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-00E0FF?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail" />
   </a>
 </div>
 
 ### 👩‍💻 Sobre Mim
 <p align="left">
-  Olá, meu nome é Sara Angela. Tenho 7 anos de experiência com vendas e atendimento ao cliente, e atualmente estou em transição de carreira para a área de Tecnologia da Informação, com foco em UX/UI Design.<br><br>
-  - 🎯 Unindo criatividade com visão estratégica para entregar experiências de valor.<br>
-  - 🎓 Formação em Gestão de TI, com conhecimentos em contabilidade, arquitetura computacional e lógica de programação.<br>
-  - 💡 Em constante evolução, buscando sempre aliar tecnologia, design e empatia.
+  Tenho mais de 7 anos de experiência com vendas, atendimento ao cliente e liderança no varejo, e hoje estou em transição para a área de Tecnologia da Informação, com foco em UX/UI Design e desenvolvimento mobile.<br><br>
+  - 🎯 Meu diferencial está na escuta ativa, na comunicação clara e empática e na visão estratégica voltada para pessoas e resultados.<br>
+  - 💻 Atualmente, estudo Gestão da Tecnologia da Informação e aplico meus conhecimentos em design, lógica de programação e modelagem de sistemas.<br>
+  - 🌱 Aprendendo ferramentas como Figma, Kotlin, MySQL, MongoDB, e reforçando base em HTML, CSS e JavaScript.<br>
+  - 📱 Já desenvolvi wireframes, maquetes navegáveis, aplicativos e interfaces que valorizam acessibilidade e experiência do usuário.<br>
+  - 💡 Me interesso por projetos com impacto social e inclusão digital, e quero fazer parte de equipes que compartilham essa visão.
 </p>
 
 ### 🛠 Linguagens e Ferramentas
@@ -54,5 +56,5 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=00C3FF&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=00E0FF&section=footer" />
 </div>
