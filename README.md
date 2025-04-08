@@ -1,11 +1,16 @@
 <div align="center">
-  <!-- Cabeçalho animado -->
+
+  <!-- Linha animada acima -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&animation=twinkling&color=FF4500,FF6347,E9967A&section=header"/>
+
+  <!-- Apresentação despojada -->
+  <h1>Oiee, eu sou a Sara Angela ✨</h1>
+
+  <!-- Typing Animation -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=Oi%2C+eu+sou+a+Chaverinh0+%F0%9F%91%8B;UX%2FUI+Design+%7C+Vendas+%7C+Tecnologia;Transformando+ideias+em+experi%C3%AAncias+digitais+incr%C3%ADveis" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=UX%2FUI+Designer+em+formacao+com+vibe+criativa;7+anos+de+experiencia+em+vendas+%2F+atendimento;Apaixonada+por+tech+%26+pessoas+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 
-  <!-- Linha decorativa -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=header"/>
 </div>
 
 ---
@@ -49,24 +54,24 @@ Se é pra somar com inovação, criatividade e propósito, tô dentro. Bora cria
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sara-angela/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-40E0D0?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-FF6347?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/chaverinh0_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-40E0D0?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-FF4500?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=5511932220162" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-40E0D0?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-E9967A?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" alt="WhatsApp" />
   </a>
   <a href="mailto:saraprado535@gmail.com">
-    <img src="https://img.shields.io/badge/Email-40E0D0?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-FF6347?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
   </a>
   <a href="https://saraprado535.wixsite.com/saraangela-portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-40E0D0?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portfólio-FF4500?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="Portfólio" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF4500,FF6347,E9967A&height=120&section=footer"/>
 </div>
