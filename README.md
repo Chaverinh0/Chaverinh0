@@ -34,7 +34,7 @@
 <p align="left">
   Tenho +7 anos de experiência com vendas, atendimento e liderança no varejo. Hoje estou virando a chave pra área tech com foco em UX/UI Design e desenvolvimento mobile.<br><br>
   - 🎓 Sou formada em Gestão da Tecnologia da Informação e atualmente estudo no Instituto PROA para me tornar uma desenvolvedora fullstack.<br>
-  - 🚀 Meu diferencial? Jogo a real, entendo o usuário, entrego soluções na medida. Comunicação afiada, visão de negócio e foco em resultado. Simples assim.<br>
+  - 🚀 Meu diferencial? entendo o usuário, entrego soluções além do esperado. Comunicação afiada, visão de negócio foco em resultado.<br>
   - 💻 Já desenvolvi projetos aplicando lógica, design e modelagem de sistemas.<br>
   - 🌱 Aprendendo Kotlin, MySQL, MongoDB e fortalecendo o front com HTML, CSS e JavaScript.<br>
   - 📱 Já criei wireframes, protótipos navegáveis, apps e interfaces acessíveis com foco total na experiência do usuário.<br>
