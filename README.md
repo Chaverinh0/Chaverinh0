@@ -32,12 +32,12 @@
 
 ### 👩‍💻 Sobre Mim
 <p align="left">
-  Tenho mais de 7 anos de experiência com vendas, atendimento ao cliente e liderança no varejo, e hoje estou em transição para a área de Tecnologia da Informação, com foco em UX/UI Design e desenvolvimento mobile.<br><br>
-  - 🎯 Meu diferencial está na escuta ativa, na comunicação clara e empática e na visão estratégica voltada para pessoas e resultados.<br>
-  - 💻 Atualmente, estudo Gestão da Tecnologia da Informação e aplico meus conhecimentos em design, lógica de programação e modelagem de sistemas.<br>
-  - 🌱 Aprendendo ferramentas como Figma, Kotlin, MySQL, MongoDB, e reforçando base em HTML, CSS e JavaScript.<br>
-  - 📱 Já desenvolvi wireframes, maquetes navegáveis, aplicativos e interfaces que valorizam acessibilidade e experiência do usuário.<br>
-  - 💡 Me interesso por projetos com impacto social e inclusão digital, e quero fazer parte de equipes que compartilham essa visão.
+  Tenho +7 anos de experiência com vendas, atendimento e liderança no varejo. Hoje estou virando a chave pra área tech com foco em UX/UI Design e desenvolvimento mobile.<br><br>
+  - 🚀 Meu diferencial? Jogo a real, entendo o usuário, entrego soluções na medida. Comunicação afiada, visão de negócio e foco em resultado. Simples assim.<br>
+  - 💻 Estudando Gestão de TI, aplicando na prática com projetos reais de design, lógica e modelagem de sistemas.<br>
+  - 🌱 Aprendendo Figma, Kotlin, MySQL, MongoDB e fortalecendo o front com HTML, CSS e JavaScript.<br>
+  - 📱 Já criei wireframes, protótipos navegáveis, apps e interfaces acessíveis com foco total na experiência do usuário.<br>
+  - 💡 Curto projetos com impacto social, inclusão e propósito. Quero estar com gente que pensa grande e age junto.
 </p>
 
 ### 🛠 Linguagens e Ferramentas
@@ -56,12 +56,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/miro.svg" height="40" alt="Miro logo" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/canva.svg" height="40" alt="Canva logo" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/lucidchart.svg" height="40" alt="Lucidchart logo" />
+  <img src="https://img.icons8.com/color/48/miro.png" height="40" alt="Miro logo" />
+  <img src="https://img.icons8.com/color/48/canva.png" height="40" alt="Canva logo" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-lucidchart-a-visual-collaboration-suite-logo-color-tal-revivo.png" height="40" alt="Lucidchart logo" />
 </div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=00E0FF&section=footer" />
 </div>
-
