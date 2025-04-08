@@ -33,9 +33,10 @@
 ### 👩‍💻 Sobre Mim
 <p align="left">
   Tenho +7 anos de experiência com vendas, atendimento e liderança no varejo. Hoje estou virando a chave pra área tech com foco em UX/UI Design e desenvolvimento mobile.<br><br>
+  - 🎓 Sou formada em Gestão da Tecnologia da Informação e atualmente estudo no Instituto PROA para me tornar uma desenvolvedora fullstack.<br>
   - 🚀 Meu diferencial? Jogo a real, entendo o usuário, entrego soluções na medida. Comunicação afiada, visão de negócio e foco em resultado. Simples assim.<br>
-  - 💻 Estudando Gestão de TI, aplicando na prática com projetos reais de design, lógica e modelagem de sistemas.<br>
-  - 🌱 Aprendendo Figma, Kotlin, MySQL, MongoDB e fortalecendo o front com HTML, CSS e JavaScript.<br>
+  - 💻 Já desenvolvi projetos aplicando lógica, design e modelagem de sistemas.<br>
+  - 🌱 Aprendendo Kotlin, MySQL, MongoDB e fortalecendo o front com HTML, CSS e JavaScript.<br>
   - 📱 Já criei wireframes, protótipos navegáveis, apps e interfaces acessíveis com foco total na experiência do usuário.<br>
   - 💡 Curto projetos com impacto social, inclusão e propósito. Quero estar com gente que pensa grande e age junto.
 </p>
@@ -56,9 +57,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" />
-  <img src="https://img.icons8.com/color/48/miro.png" height="40" alt="Miro logo" />
-  <img src="https://img.icons8.com/color/48/canva.png" height="40" alt="Canva logo" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-lucidchart-a-visual-collaboration-suite-logo-color-tal-revivo.png" height="40" alt="Lucidchart logo" />
 </div>
 
 <div align="center">
