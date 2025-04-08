@@ -1,84 +1,72 @@
 <div align="center">
-  <img src="https://readme-landing-page.vercel.app/api/hero?text=Chaverinh0&description=UX%20%7C%20UI%20Designer%20+%20Tecnologia%20+%20Inovação&animation=rainbow&gradient=blue-cyan" width="100%" />
-</div>
-
----
-
-### 👋 Sobre Mim
-
-Profissional com 7 anos de experiência em vendas e atendimento ao cliente, com foco em negociação, resolução de problemas e resultados. Atualmente, estou em transição de carreira para a área de **Tecnologia da Informação**, com ênfase em **UI/UX Design** e desenvolvimento de produtos digitais.
-
-Tenho estudado sobre **liderança**, **metodologias ágeis** e ferramentas de design e programação para atuar de forma estratégica em projetos digitais. Busco alinhar criatividade, usabilidade e tecnologia, contribuindo com soluções centradas no usuário.
-
----
-
-### 💡 Habilidades & Conhecimentos
-
-- ⚙️ **Metodologias Ágeis**: Scrum, Kanban, Miro, Trello  
-- 📊 **Gestão de Projetos**: Análise SWOT, Ciclo PDCA  
-- 🔐 **Cibersegurança** (Cisco)  
-- 📈 Power BI, MySQL, MongoDB  
-- 💻 Microsoft 365, Python, C, C++, Kotlin, Portugol  
-- 🌐 HTML, CSS, JavaScript  
-- 🎨 Figma, Illustrator, Photoshop, Corel Draw  
-- 🧠 Lógica de Programação, Engenharia de Requisitos, Arquitetura Computacional  
-- 🗣 Comunicação e Relacionamento Interpessoal
-
----
-
-### 🛠 Ferramentas e Tecnologias
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chaverinh0&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Chaverinh0&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=pt-br&hide_border=false" height="150" />
-</div>
-
----
-
-### 📬 Contato
-
-<div align="center">
-  <a href="https://www.instagram.com/chaverinh0_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-40E0D0?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
+  <!-- Cabeçalho animado -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=Oi%2C+eu+sou+a+Chaverinh0+%F0%9F%91%8B;UX%2FUI+Design+%7C+Vendas+%7C+Tecnologia;Transformando+ideias+em+experi%C3%AAncias+digitais+incr%C3%ADveis" alt="Typing SVG" />
   </a>
+
+  <!-- Linha decorativa -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=header"/>
+</div>
+
+---
+
+### 👩‍💻 Sobre Mim
+
+Sou uma profissional que veio das trincheiras das vendas — foram 7 anos lidando com gente, metas e problemas que viravam soluções na marra. Isso me moldou: hoje tenho olhar analítico, escuta afiada e jogo de cintura de sobra.
+
+Agora tô no corre tech: mergulhei de cabeça no universo de **UX/UI Design**, apaixonada por transformar ideias em experiências digitais que realmente funcionam (e encantam 👀).  
+
+Estudo liderança, projeto, segurança, código, design e tudo mais que possa me fazer uma criadora de soluções completas — com **estilo**, **inteligência** e **impacto real**.  
+
+Se é pra somar com inovação, criatividade e propósito, tô dentro. Bora criar o futuro?
+
+---
+
+### 🧠 Habilidades e Conhecimentos
+
+- 💡 **Metodologias Ágeis:** Scrum, Kanban, Miro, Trello  
+- 📊 **Gestão Estratégica:** Análise SWOT, Ciclo PDCA  
+- 🔐 **Segurança:** Curso de Cibersegurança (Cisco)  
+- 📈 **Dados e Banco:** Power BI, MySQL, MongoDB  
+- 💾 **Programação:** Python, C, C++, Kotlin, Portugol  
+- 🌐 **Web:** HTML, CSS, JavaScript  
+- 🎨 **Design:** Figma, Adobe Illustrator, Photoshop, Corel Draw  
+- 💼 **Outros:** Microsoft Office 365  
+- 📚 **Formação:** Gestão em TI + noções de contabilidade, arquitetura computacional e lógica
+
+---
+
+### ⚙️ GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chaverinh0&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chaverinh0&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="Estatísticas" />
+</div>
+
+---
+
+### 🌍 Contato
+
+<div align="center">
   <a href="https://www.linkedin.com/in/sara-angela/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-40E0D0?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-40E0D0?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
-  <a href="mailto:saraprado535@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-40E0D0?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  <a href="https://www.instagram.com/chaverinh0_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-40E0D0?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
   </a>
-  <a href="https://wa.me/5511932220162" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-40E0D0?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" />
+  <a href="https://api.whatsapp.com/send?phone=5511932220162" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-40E0D0?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" alt="WhatsApp" />
+  </a>
+  <a href="mailto:saraprado535@gmail.com">
+    <img src="https://img.shields.io/badge/Email-40E0D0?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
+  </a>
+  <a href="https://saraprado535.wixsite.com/saraangela-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-40E0D0?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="Portfólio" />
   </a>
 </div>
 
 ---
 
-### 🌐 Portfólio
-
-📁 [Acesse meu portfólio aqui](https://saraprado535.wixsite.com/saraangela-portfolio)
-
----
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=40E0D0&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=footer"/>
 </div>
