@@ -32,7 +32,7 @@
 
 ### 👩‍💻 Sobre Mim
 <p align="left">
-  Tenho +7 anos de experiência com vendas, atendimento e liderança no varejo. Hoje estou virando a chave pra área tech com foco em UX/UI Design e desenvolvimento mobile.<br><br>
+  Tenho +7 anos de experiência com vendas, atendimento. Hoje estou virando a chave pra área tech com foco em UX/UI Design e desenvolvimento mobile.<br><br>
   - 🎓 Sou formada em Gestão da Tecnologia da Informação e atualmente estudo no Instituto PROA para me tornar uma desenvolvedora fullstack.<br>
   - 🚀 Meu diferencial? entendo o usuário, entrego soluções além do esperado. Comunicação afiada, visão de negócio foco em resultado.<br>
   - 💻 Já desenvolvi projetos aplicando lógica, design e modelagem de sistemas.<br>
